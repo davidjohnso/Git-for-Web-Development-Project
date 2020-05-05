@@ -10,6 +10,7 @@ Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
         Modifiers for HTML tags that provide additional information
     
     4. What is the h1 tag used for? How many times should I use it on a page?
+        
     
     
     5. Name two tags that have required attributes
@@ -135,7 +136,9 @@ Stretch Questions
     
     
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-    
+    Block elements: div, h1, p
+    Inline elements: span, a 
+    Inline-block elements: button
     
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them?
         The box model is boxes inside of boxes that consists of from outsie to inside:
