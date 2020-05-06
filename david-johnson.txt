@@ -1,28 +1,30 @@
 Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
 
     1. What is Semantic HTML? 
+        Semantic HTML gives meaning to the content on the webpage. For example, a <p> tag denotes a paragraph.
     
     
     2. What is HTML used for? 
+        HTML is used to create pages displayed on the internet.
     
     
     3. What is an attribute and where do we put it? 
-        Modifiers for HTML tags that provide additional information
+        Modifiers for HTML tags that provide additional information.
     
     4. What is the h1 tag used for? How many times should I use it on a page?
-        
+        h1 tag is used for displaying the title or main post of the page. You only want to use an h1 tag once on a page.
     
+    5. Name two tags that have required attributes?
+        "img" and "a" have required attributes.
     
-    5. Name two tags that have required attributes
-    
-    
-    6. What do we put in the head of our HTML document? 
-    
+    6. What do we put in the head of our HTML document?
+        Information that is not displayed to the user, such as scripts, styles, character sets and page title.
     
     7. What is an id? 
-    
+        Uniquie id that idemtifies one element.
     
     8. What elements can I add an id to? 
+    "id" can be used on any HTMLL element except for param, html, style, meta, head, title, base, and script
     
     
     9. How many times can I use the same id on a page?
@@ -30,10 +32,10 @@ Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
     
     
     10. What is a class? 
-    
+    Uniquie id that can idemtify one to multiple elements. 
     
     11. What elements can I add a class to? 
-        All elements
+        All HTML elements
     
     
     12. How many times can I use the same class on a page? 
@@ -46,7 +48,7 @@ Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
     
     
     15. How do I reference an id?
-    
+    .idName
     
     16. What is the difference between a section and a div
     
@@ -59,7 +61,7 @@ Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
     Reference h2 in CSS
     
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
-    
+    Class is used if your wanting to use the same styling multiple times for different elements. "id" is used when you want style one partiular element.
     
     20. How do we select classes in CSS?
     Reference class name in CSS with a period before the name. Example: .classname.
@@ -67,7 +69,7 @@ Codepen completed assignment: https://codepen.io/davjoh/pen/ExVopxN
     
     
     21. How do we select a p element with a single class of “human””?
-    Reference .human in CSS.
+    Reference ".human" in CSS.
     
     
     22. What is a parent child selector? When would this be useful? 
