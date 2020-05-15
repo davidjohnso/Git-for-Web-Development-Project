@@ -1,0 +1,56 @@
+body {
+    border: 20px solid #00CED1;
+    color: #2F4F4F;
+    font-size: 20px;
+    display: flex;
+    overflow: auto;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #778899;
+    text-align: center;
+  }
+  
+  .first-section {
+    background-color: #7FFFD4;
+    padding: 5%;
+  }
+  
+  .first-section:hover {
+    background-color: #DEB887;
+  }
+  
+  .second-section {
+    background-color: #2F4F4F;
+    color: #00CED1;
+    padding: 8%;
+  }
+  
+  .second-section:hover {
+    background-color: #696969;
+    color: #FFA07A;
+  }
+  
+  .another-section {
+    line-height: 1.5;
+    letter-spacing: 2px;
+  }
+  
+  h3 {
+    text-transform: uppercase;
+    color: #778899;
+    font-size: 1.5em;
+  }
+  
+  .images{
+    padding: 10% 0;
+  }
+  
+  .images img:hover {
+    border: 10px dotted #DC143C;
+  }
